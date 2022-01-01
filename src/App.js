@@ -1,5 +1,5 @@
-import React from "react";
-import "./App.css";
+import React from 'react';
+import './App.css';
 import {
   Blog,
   Features,
@@ -7,8 +7,8 @@ import {
   Header,
   Possibility,
   WhatGPT3,
-} from "./containers";
-import { Article, Brand, CTA, Feature, Navbar } from "./components";
+} from './containers';
+import { Article, Brand, CTA, Feature, Navbar } from './components';
 
 const App = () => {
   return (

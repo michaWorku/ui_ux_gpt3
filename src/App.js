@@ -8,12 +8,12 @@ import {
   Possibility,
   WhatGPT3,
 } from './containers';
-import { Article, Brand, CTA, Feature, Navbar } from './components';
+import { Brand, CTA, Navbar } from './components';
 
 const App = () => {
   return (
-    <div className="App">
-      <div className="gradient__bg">
+    <div className='App'>
+      <div className='gradient__bg'>
         <Navbar />
         <Header />
       </div>

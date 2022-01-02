@@ -53,7 +53,6 @@ const Navbar = () => {
             size={27}
             onClick={() => {
               setToggleMenu(!toggleMenu);
-              console.log({ toggleMenu });
             }}
           />
         ) : (
@@ -62,7 +61,6 @@ const Navbar = () => {
             size={27}
             onClick={() => {
               setToggleMenu(!toggleMenu);
-              console.log({ toggleMenu });
             }}
           />
         )}

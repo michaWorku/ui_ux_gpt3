@@ -3,14 +3,14 @@
 # GPT3 Product Website
 A fully responsive, modern website that displays information on the GPT3 OpenAI product.
 
-[Live Preview](https://ui-ux-gpt3-michaworku.ercel.app)
+[Live Preview](https://ui-ux-gpt3-michaworku.vercel.app)
 
 ## Project Tools
 
 `React`, `HTML5`, `CSS3`, `JavaScript`
 
 # Screenshots
-![Desktop Preview](public/desktop-home.png?raw=true)
+![Desktop Preview](https://i.ibb.co/TR5LW9z/image.png)
 
 
 # Installation and Setup
